@@ -74,10 +74,6 @@ ORDER BY faturamento DESC;
 3. Execute o arquivo `inserir_dados.sql`.
 4. Execute as consultas do arquivo `consultas.sql`, uma por vez.
 
-## 📸 Prints dos resultados
-
-> Adicione aqui capturas de tela dos resultados das consultas.
-
 ## 📚 Aprendizados
 
 - Criação de tabelas e relacionamentos com chave primária e estrangeira.
