@@ -8,8 +8,8 @@ Responder a perguntas de uma loja online fictícia sobre clientes, produtos e pe
 
 ## 🛠️ Tecnologias
 
-- SQL (MySQL / SQLite / PostgreSQL)
-- Ferramentas: DBeaver, MySQL Workbench ou SQLite Online
+- SQL (SQLite / PostgreSQL)
+- Ferramentas: DBeaver, ou SQLite Online
 
 ## 🗂️ Estrutura do banco de dados
 
